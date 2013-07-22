@@ -1,10 +1,10 @@
-.logo{
+.logo {
 	text-align: center;
 }
 
-.offline{
-	visibility: hidden;;
-	color: #f00; 
+.offline {
+	visibility: hidden;
+	color: #f00;
 	font-style: italic;
 }
 
